@@ -1,0 +1,90 @@
+
+
+body{
+	margin: 50px 75px 50px 75px;
+	background-color: #808080; /* 1c1c1c*/
+	font-family:Arial, Helvetica, sans-serif;
+	color:#ffffff;
+}
+
+.bannerbackground{
+	height:150px;
+	width:100%;
+	background-image:url("Images/Graffiti-wide.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-color: #cccccc;
+	padding-top:75px;
+	font-size:75px;
+	text-align: center;
+	margin-bottom:24px;
+}
+.bannerbackground1{
+	height:150px;
+	width:100%;
+	background-image:url("Images/viejo.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-color: #red;
+	padding-top:75px;
+	font-size:75px;
+	text-align: center;
+	margin-bottom:24px;
+}
+.bannerbackground2{
+	height:150px;
+	width:100%;
+	background-image:url("Images/modern-wide.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-color: #cccccc;
+	padding-top:75px;
+	font-size:75px;
+	text-align: center;
+	margin-bottom:24px;
+}
+.bannerbackground3{
+	height:150px;
+	width:100%;
+	background-image:url("Images/1.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-color: #b6f442;
+	padding-top:75px;
+	font-size:75px;
+	text-align: center;
+	margin-bottom:24px;
+}
+h1{
+	font-family:"Courier New", Courier, monospace;
+	font-size: 48px;
+	color: #b6f442;
+	padding: 0 5px 5px 5px;
+	width: 500px;
+}
+h2{
+font-family:"Lucida Console", Monaco, monospace;
+ color: #b6f442;
+
+
+}
+.right-responsive{ 
+	max-width:100%; 
+	height: auto;
+	float: right;
+	margin:15px 0 15px 15px;
+}
+}
+.left-responsive{ 
+	max-width:100%; 
+	height: auto;
+	float: right;
+	margin:15px 0 15px 15px;
+}
+p{
+	text-align: justify;
+	line-height: 24px;
+}
+a{
+	color:#b6f442;
+}
